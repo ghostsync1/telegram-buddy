@@ -3,7 +3,7 @@
 	"handle": "telegram-buddy",
 	"version": "1.0.6",
 	"description": "A package that allows quick creation of a Telegram bot hosted on Steamship.",
-	"author": "dave",
+	"author": "ghostsync",
 	"entrypoint": "Unused",
 	"public": true,
 	"plugin": null,
