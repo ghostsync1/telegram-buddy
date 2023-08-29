@@ -1,4 +1,10 @@
 """Description of your app."""
+class AskMyBrain(PackageService) :
+@post ("/learn")
+def learn(self, text: str):
+self. index. insert (text, {}) @post ("/query")
+def query (self, text: str):
+self.index.query (text)
 from typing import Type, Optional, Dict, Any, cast, List
 
 from steamship.experimental.package_starters.telegram_bot import TelegramBotConfig, TelegramBot
