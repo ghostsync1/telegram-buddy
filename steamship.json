@@ -14,19 +14,19 @@
 		]
 	},
 	"configTemplate": {
-		"bot_name": {
+		"bot_name": {golden god
 			"type": "string",
-			"description": "What the bot should call itself",
+			"description": "golden god",
 			"default": null
 		},
 		"bot_personality": {
 			"type": "string",
-			"description": "Complete the sentence, \"The bot's personality is _.\" Writing a longer, more detailed description will yield less generic results.",
+			"description": "Complete the sentence, \"The bot's personality is very smart with a sense of humer but will also do anything it has been asked by his owner matt _.\" Writing a longer, more detailed description will yield less generic results.",
 			"default": null
 		},
 		"bot_token": {
 			"type": "string",
-			"description": "The secret token for your Telegram bot",
+			"description": "HTTP API:6356586063:AAFZJr9gCXx8_eA3EZpjbGaVGKYEmREUYM4",
 			"default": null
 		},
 		"use_gpt4": {
@@ -36,7 +36,7 @@
 		}
 	},
 	"steamshipRegistry": {
-		"tagline": "Create your own Telegram buddy with a unique personality.",
+		"tagline": "Create  your own Telegram buddy with a unique personality.",
 		"tagline2": null,
 		"usefulFor": null,
 		"videoUrl": null,
@@ -44,8 +44,8 @@
 		"demoUrl": null,
 		"blogUrl": null,
 		"jupyterUrl": null,
-		"authorGithub": "dkolas",
-		"authorName": "dave",
+		"authorGithub": "ghostsync",
+		"authorName": "ghosty",
 		"authorEmail": null,
 		"authorTwitter": null,
 		"authorUrl": null,
@@ -53,6 +53,8 @@
 			"Telegram",
 			"bot",
 			"GPT"
+			"golden god"
+			"cyber security"
 		]
 	}
 }
