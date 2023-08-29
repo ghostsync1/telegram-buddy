@@ -14,7 +14,7 @@
 		]
 	},
 	"configTemplate": {
-		"bot_name": {golden god
+		"bot_name": 
 			"type": "string",
 			"description": "golden god",
 			"default": null
